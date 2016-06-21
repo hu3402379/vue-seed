@@ -1,0 +1,52 @@
+{
+  "name": "richard-hsueh-website",
+  "version": "1.0.0",
+  "description": "Richard Hsueh",
+  "main": "index.html",
+  "directories": {
+    "doc": "doc"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.12.4",
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-changed": "^1.3.0",
+    "gulp-clean-css": "^2.0.6",
+    "gulp-htmlmin": "^1.3.0",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-load-plugins": "^1.2.2",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sass": "^2.3.1",
+    "gulp-sourcemaps": "^2.0.0-alpha",
+    "gulp-uglify": "^1.5.3",
+    "jasmine": "^2.4.1",
+    "karma": "^0.13.22",
+    "karma-chrome-launcher": "^1.0.1",
+    "karma-firefox-launcher": "^1.0.0",
+    "karma-jasmine": "^1.0.2",
+    "karma-mocha-reporter": "^2.0.3",
+    "karma-requirejs": "^1.0.0",
+    "protractor": "^3.3.0"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "keywords": [
+    "requirejs",
+    "angularjs",
+    "ui-router",
+    "karma",
+    "protractor"
+  ],
+  "author": "Richard",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hsuehic/hsuehic.github.io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hsuehic/hsuehic.github.io/issues"
+  },
+  "homepage": "https://github.com/hsuehic/hsuehic.github.io#readme"
+}
